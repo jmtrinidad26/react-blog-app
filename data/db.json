@@ -1,0 +1,70 @@
+{
+  "blogs": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "body": "A groundbreaking exploration of the human species.",
+      "id": "8"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "body": "An exploration of the two systems that drive human thought.",
+      "id": "9"
+    },
+    {
+      "title": "The Psychology of Color",
+      "body": "Explore the science behind how colors influence human behavior and emotions. Discover how different hues can evoke specific responses and create desired atmospheres. From marketing and branding to interior design, understand the power of color in shaping perception.",
+      "author": "Dr. Eva Heller",
+      "id": "11"
+    },
+    {
+      "title": "The Art of Effective Communication",
+      "body": "Master the skills of verbal and nonverbal communication. Learn how to articulate your thoughts clearly, build strong relationships, and resolve conflicts. Discover the secrets to persuasive speaking and active listening.",
+      "author": "Dale Carnegie",
+      "id": "12"
+    },
+    {
+      "title": "Investing for Beginners",
+      "body": "Start your investment journey with this comprehensive guide. Learn about different investment vehicles, risk management, portfolio diversification, and long-term financial planning. Understand the basics of stocks, bonds, and mutual funds.",
+      "author": "Ramsey Solutions",
+      "id": "13"
+    },
+    {
+      "title": "Healthy Eating Habits",
+      "body": "Discover the secrets to a balanced and nutritious diet. Learn about macronutrients, micronutrients, and the importance of portion control. Find delicious and healthy recipe ideas to inspire your culinary adventures.",
+      "author": "Healthline",
+      "id": "14"
+    },
+    {
+      "title": "The Science of Sleep",
+      "body": "Uncover the importance of sleep for overall health and well-being. Learn about sleep cycles, sleep disorders, and tips for improving sleep quality. Discover the latest research on the benefits of a good night's sleep.",
+      "author": "Matthew Walker",
+      "id": "15"
+    },
+    {
+      "title": "Mastering Time Management",
+      "body": "Boost your productivity and reduce stress with effective time management techniques. Learn how to prioritize tasks, set goals, and eliminate time-wasting activities. Discover the power of time blocking and the Pomodoro Technique.",
+      "author": "David Allen",
+      "id": "16"
+    },
+    {
+      "title": "The Benefits of Meditation",
+      "body": "Experience the transformative power of meditation. Learn different meditation techniques, such as mindfulness and guided meditation. Discover how meditation can reduce stress, improve focus, and enhance overall well-being.",
+      "author": "Deepak Chopra",
+      "id": "17"
+    },
+    {
+      "title": "Building Strong Relationships",
+      "body": "Cultivate deeper connections with others through effective communication and empathy. Learn the importance of trust, support, and compromise in building lasting relationships.",
+      "author": "John Gottman",
+      "id": "18"
+    },
+    {
+      "title": "Financial Literacy for Beginners",
+      "body": "Gain control of your finances with this comprehensive guide. Learn about budgeting, saving, investing, and debt management. Understand the basics of credit scores and building financial security.",
+      "author": "Dave Ramsey",
+      "id": "20"
+    }
+  ]
+}
